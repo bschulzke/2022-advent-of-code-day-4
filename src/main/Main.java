@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class Main {
 
-  private static HashMap<Character, Integer> priorities = new HashMap<>();
+  private static final HashMap<Character, Integer> priorities = new HashMap<>();
 
   public static void main(String[] args) {
 
